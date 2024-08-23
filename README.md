@@ -3,6 +3,9 @@
 ## Descrição
 TechVisit é um sistema projetado para empresas e pessoas autônomas que precisam gerenciar de maneira eficiente todas as etapas envolvidas nas visitas técnicas residenciais. Desde o agendamento inicial até a instalação de equipamentos e a gestão de materiais utilizados, o TechVisit proporciona uma solução completa e integrada para os que oferecem serviços de manutenção e instalação.
 
+## Autor
+- [@matheusbruns](https://github.com/matheusbruns)  
+
 ## Tecnologias Utilizadas
 - **Front-end:** React
 - **Back-end:** Java
