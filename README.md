@@ -13,6 +13,7 @@ TechVisit é um sistema projetado para empresas e pessoas autônomas que precisa
 
 ## Links Importantes
 
+- [Figma](https://www.figma.com/design/lZ4HjgSyZsHrtx2dtEJwjS/TECHVISIT?node-id=0-1&node-type=CANVAS&t=P3WGQfd1JX6dZ9vb-0)
 - [Repositório Frontend](https://github.com/matheusbruns/techvisit-front)  
 - [Repositório Backend](https://github.com/matheusbruns/techvisit-back)  
 - [Jira](https://matheusbruns.atlassian.net/jira/software/projects/TECH/boards/1)  
