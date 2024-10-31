@@ -32,6 +32,7 @@ O sistema permite gerenciar clientes, técnicos, e visitas de forma centralizada
   - [Backend](https://github.com/matheusbruns/techvisit-back)
 - **Design no Figma**: [TechVisit Design](https://www.figma.com/design/lZ4HjgSyZsHrtx2dtEJwjS/TECHVISIT?node-id=0-1&node-type=CANVAS&t=P3WGQfd1JX6dZ9vb-0)
 - **Jira para Gerenciamento de Projetos**: [TechVisit no Jira](https://matheusbruns.atlassian.net/jira/software/projects/TECH/boards/1)
+- **Documentação da api**: [swagger](https://techvisit.tech/api/swagger-ui/index.html).
 - **Monitoramento com Grafana**:
   - URL: [Grafana](http://3.23.158.137:3000)
   - Usuário: `admin`
