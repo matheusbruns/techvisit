@@ -36,8 +36,8 @@ O sistema permite gerenciar clientes, técnicos, e visitas de forma centralizada
   - [Front-end](https://github.com/matheusbruns/techvisit-front)
   - [Back-end](https://github.com/matheusbruns/techvisit-back)
 - **Sonar Cloud**:
-- [Front-end](https://sonarcloud.io/summary/overall?id=matheusbruns_techvisit-front)
-- [Back-end](https://sonarcloud.io/summary/overall?id=matheusbruns_techvisit-back)
+  - [Front-end](https://sonarcloud.io/summary/overall?id=matheusbruns_techvisit-front)
+  - [Back-end](https://sonarcloud.io/summary/overall?id=matheusbruns_techvisit-back)
 - **Design no Figma**: [TechVisit Design](https://www.figma.com/design/lZ4HjgSyZsHrtx2dtEJwjS/TECHVISIT?node-id=0-1&node-type=CANVAS&t=P3WGQfd1JX6dZ9vb-0)
 - **Jira para Gerenciamento de Projetos**: [TechVisit no Jira](https://matheusbruns.atlassian.net/jira/software/projects/TECH/list)
 - **Documentação da api**: [swagger](https://techvisit.tech/api/swagger-ui/index.html).
