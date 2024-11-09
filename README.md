@@ -24,12 +24,20 @@ O sistema permite gerenciar clientes, técnicos, e visitas de forma centralizada
 - **Integração com Google Maps**: Direcionamento para o endereço da visita através do Google Maps.
 - **Próximas visitas**: Registro completo das próximas visitas para o técnico que vai realizar o serviço.
 
+## Diagrama de caso de uso
+
+![techvisit_casos_de_uso](https://github.com/user-attachments/assets/e0d5c943-9644-4505-a395-e8fafac0fa95)
+
+
 ## Links Importantes
 
 - **Aplicação**: [TechVisit](https://techvisit.tech)
 - **Repositórios de Código**:
-  - [Frontend](https://github.com/matheusbruns/techvisit-front)
-  - [Backend](https://github.com/matheusbruns/techvisit-back)
+  - [Front-end](https://github.com/matheusbruns/techvisit-front)
+  - [Back-end](https://github.com/matheusbruns/techvisit-back)
+- **Sonar Cloud**:
+- [Front-end](https://sonarcloud.io/summary/overall?id=matheusbruns_techvisit-front)
+- [Back-end](https://sonarcloud.io/summary/overall?id=matheusbruns_techvisit-back)
 - **Design no Figma**: [TechVisit Design](https://www.figma.com/design/lZ4HjgSyZsHrtx2dtEJwjS/TECHVISIT?node-id=0-1&node-type=CANVAS&t=P3WGQfd1JX6dZ9vb-0)
 - **Jira para Gerenciamento de Projetos**: [TechVisit no Jira](https://matheusbruns.atlassian.net/jira/software/projects/TECH/list)
 - **Documentação da api**: [swagger](https://techvisit.tech/api/swagger-ui/index.html).
