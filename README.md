@@ -25,9 +25,7 @@ O sistema permite gerenciar clientes, técnicos, e visitas de forma centralizada
 - **Próximas visitas**: Registro completo das próximas visitas para o técnico que vai realizar o serviço.
 
 ## Diagrama de caso de uso
-
-![techvisit_casos_de_uso](https://github.com/user-attachments/assets/e0d5c943-9644-4505-a395-e8fafac0fa95)
-
+![techvisit_casos_de_uso](https://github.com/user-attachments/assets/be42207f-cea1-4b5d-8925-63b23bfbe74b)
 
 ## Links Importantes
 
