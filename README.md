@@ -1,19 +1,28 @@
 # TechVisit - Software de Gestão de Visitas Técnicas
 
 ## Descrição
-
-**TechVisit** é um sistema SaaS focado em gerenciar todas as etapas de visitas técnicas residenciais, ideal para empresas que oferecem serviços de instalação, manutenção e inspeções técnicas. Desde o agendamento inicial até o fechamento do serviço e o acompanhamento do uso de materiais, TechVisit é uma solução integrada que traz eficiência e controle ao processo.
-
-O sistema permite gerenciar clientes, técnicos, e visitas de forma centralizada, facilitando o acompanhamento de múltiplos agendamentos, otimizando a logística de visitas e melhorando a comunicação com os clientes.
+O **TechVisit** é um sistema SaaS (Software como Serviço) voltado para a gestão eficiente de visitas técnicas residenciais. Ideal para empresas de qualquer segmento, desde que ofereçam serviços de instalação, manutenção e inspeções domiciliares. O TechVisit permite o cadastro completo de técnicos e clientes, facilitando o gerenciamento de toda a base de dados e visitas agendadas. Com uma solução 100% em nuvem, que garante acessibilidade e praticidade de qualquer lugar, a qualquer momento.​
 
 ## Autor
 - **Matheus Bruns** - [@matheusbruns](https://github.com/matheusbruns)  
 
 ## Tecnologias Utilizadas
 
-- **Frontend**: React com TypeScript, Material UI para componentes e SCSS para estilização.
-- **Backend**: Java (Spring Boot) e JPA para gestão de dados.
-- **Banco de Dados**: PostgreSQL.
+**Frontend**:
+  - React: Biblioteca JavaScript para criação de interfaces dinâmicas e responsivas.  ​
+  - Axios: Biblioteca para requisições HTTP, usada para conectar o front-end ao back-end.​
+  - Material UI: Biblioteca de componentes visuais para uma interface moderna e amigável.​
+  - Toastify: Biblioteca para notificações.
+
+**Backend**:
+  - Java: Linguagem robusta e segura, ideal para aplicações corporativas. ​
+  - Spring Boot: Framework que facilita o desenvolvimento de APIs REST eficientes e escaláveis.​
+  - JUnit: Ferramenta de testes unitários, garantindo qualidade e funcionamento correto do código.​
+  - Mockito: Framework de testes para simular dependências e facilitar testes unitários.​
+  - Swagger: Ferramenta para documentar a API.
+
+**Banco de Dados**:
+  - PostgreSQL: Banco de dados relacional que oferece confiabilidade e desempenho avançado.
 
 ## Funcionalidades Principais
 
@@ -43,17 +52,3 @@ O sistema permite gerenciar clientes, técnicos, e visitas de forma centralizada
   - URL: [Grafana](http://3.23.158.137:3000)
   - Usuário: `admin`
   - Senha: `techvisit`
-
-## Estrutura de Projeto
-
-### Frontend
-
-- **Bibliotecas**: React, Material UI, Axios para requisições HTTP.
-- **Componentização**: Uso de componentes reutilizáveis com alta modularidade, com atenção especial para o estilo responsivo.
-
-### Backend
-
-- **Framework**: Spring Boot com Spring MVC para criação de APIs RESTful.
-- **Autenticação**: JWT para autenticação e autorização, com verificação de permissões personalizadas para cada perfil.
-- **Persistência**: JPA e Hibernate para persistência de dados com PostgreSQL, configurado para alta performance e escalabilidade.
-- **Logs e Monitoramento**: Integração com SonarCloud para análise de código e Grafana para monitoramento do desempenho da aplicação.
