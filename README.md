@@ -6,6 +6,9 @@ O **TechVisit** é um sistema SaaS (Software como Serviço) voltado para a gest�
 ## Autor
 - **Matheus Bruns** - [@matheusbruns](https://github.com/matheusbruns)  
 
+## Licença
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
+
 ## Tecnologias Utilizadas
 
 **Frontend**:
