@@ -9,6 +9,8 @@ O **TechVisit** é um sistema SaaS (Software como Serviço) voltado para a gest�
 ## Licença
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
+
+
 ## Tecnologias Utilizadas
 
 **Frontend**:
@@ -42,22 +44,21 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 - Continuous Integration (CI): SonarCloud Quality Gate
 - Monitoramento: Grafana e Prometheus
 
-## Diagrama de casos de uso
-![techvisit_casos_de_uso](https://github.com/user-attachments/assets/be42207f-cea1-4b5d-8925-63b23bfbe74b)
-
 ## Links Importantes
 
 - **Aplicação**: [TechVisit](https://techvisit.tech)
 - **Repositórios de Código**:
-  - [Front-end](https://github.com/matheusbruns/techvisit-front)
-  - [Back-end](https://github.com/matheusbruns/techvisit-back)
+  - [Front-end](https://github.com/matheusbruns/techvisit-front) Link do repositório do Front-end.
+  - [Back-end](https://github.com/matheusbruns/techvisit-back) Link do repositório do Back-end.
+    
+- [WIKI do Projeto](https://github.com/matheusbruns/techvisit/wiki) Link da Wiki do Projeto.
 - **Sonar Cloud**:
-  - [Front-end](https://sonarcloud.io/summary/overall?id=matheusbruns_techvisit-front)
-  - [Back-end](https://sonarcloud.io/summary/overall?id=matheusbruns_techvisit-back)
-- **Design no Figma**: [TechVisit Design](https://www.figma.com/design/lZ4HjgSyZsHrtx2dtEJwjS/TECHVISIT?node-id=0-1&node-type=CANVAS&t=P3WGQfd1JX6dZ9vb-0)
-- **Jira para Gerenciamento de Projetos**: [TechVisit no Jira](https://matheusbruns.atlassian.net/jira/software/projects/TECH/list)
-- **Documentação da api**: [swagger](https://techvisit.tech/api/swagger-ui/index.html).
+  - [Front-end](https://sonarcloud.io/summary/overall?id=matheusbruns_techvisit-front) Link do SonarCloud do Front-end.
+  - [Back-end](https://sonarcloud.io/summary/overall?id=matheusbruns_techvisit-back) Link do SonarCloud do Back-end.
+- **Design no Figma**: [TechVisit Design](https://www.figma.com/design/lZ4HjgSyZsHrtx2dtEJwjS/TECHVISIT?node-id=0-1&node-type=CANVAS&t=P3WGQfd1JX6dZ9vb-0) Link do Design do Figma.
+- **Jira para Gerenciamento de Projetos**: [TechVisit no Jira](https://matheusbruns.atlassian.net/jira/software/projects/TECH/list) Link do Figma.
+- **Documentação da api**: [swagger](https://techvisit.tech/api/swagger-ui/index.html). Link da documentação da API.
 - **Monitoramento com Grafana**:
-  - URL: [Grafana](http://3.23.158.137:3000)
+  - URL: [Grafana](http://3.23.158.137:3000) Link do GRAFANA.
   - Usuário: `admin`
   - Senha: `techvisit`
