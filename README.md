@@ -36,7 +36,13 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 - **Integração com Google Maps**: Direcionamento para o endereço da visita através do Google Maps.
 - **Próximas visitas**: Registro completo das próximas visitas para o técnico que vai realizar o serviço.
 
-## Diagrama de caso de uso
+## Ferramentas de Desenvolvimento
+- Code Review: SonarCloud
+- Continuous Deployment (CD): Github Actions
+- Continuous Integration (CI): SonarCloud Quality Gate
+- Monitoramento: Grafana e Prometheus
+
+## Diagrama de casos de uso
 ![techvisit_casos_de_uso](https://github.com/user-attachments/assets/be42207f-cea1-4b5d-8925-63b23bfbe74b)
 
 ## Links Importantes
