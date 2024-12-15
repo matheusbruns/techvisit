@@ -11,7 +11,16 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 
 
-## Tecnologias Utilizadas
+## Stack Tecnológica Usada
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![JUnit](https://img.shields.io/badge/junit5-%2325A162?style=for-the-badge&logo=junit5&logoColor=%23FFFFFF)
+![Mockito](https://img.shields.io/badge/mockito-%23800000?style=for-the-badge&logo=mockito&logoColor=%23FFFFFF)
+![React](https://img.shields.io/badge/react-58c4dc.svg?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/swagger-38b832.svg?style=for-the-badge&logo=swagger&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/amazonwebservices-%23232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=%23FFFFFF)
 
 **Frontend**:
   - React: Biblioteca JavaScript para criação de interfaces dinâmicas e responsivas.  ​
