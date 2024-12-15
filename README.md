@@ -46,7 +46,7 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ## Links Importantes
 
-- **Aplicação**: [TechVisit](https://techvisit.tech)
+- **Aplicação**: [Link da aplicação](https://techvisit.tech) (atualmente desligada).
 - **Repositórios de Código**:
   - [Front-end](https://github.com/matheusbruns/techvisit-front) Link do repositório do Front-end.
   - [Back-end](https://github.com/matheusbruns/techvisit-back) Link do repositório do Back-end.
@@ -59,6 +59,6 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 - **Jira para Gerenciamento de Projetos**: [TechVisit no Jira](https://matheusbruns.atlassian.net/jira/software/projects/TECH/list) Link do Figma.
 - **Documentação da api**: [swagger](https://techvisit.tech/api/swagger-ui/index.html). Link da documentação da API.
 - **Monitoramento com Grafana**:
-  - URL: [Grafana](http://3.23.158.137:3000) Link do GRAFANA.
+  - URL: [Link Grafana](http://3.23.158.137:3000) (atualmente desligado).
   - Usuário: `admin`
   - Senha: `techvisit`
