@@ -53,6 +53,9 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 - Continuous Integration (CI): SonarCloud Quality Gate
 - Monitoramento: Grafana e Prometheus
 
+## Wiki do Projeto - Descrição e Arquitetura
+- [WIKI do Projeto](https://github.com/matheusbruns/techvisit/wiki) Link da Wiki do Projeto.
+
 ## Links Importantes
 
 - **Aplicação**: [Link da aplicação](https://techvisit.tech) (atualmente desligada).
@@ -60,7 +63,6 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
   - [Front-end](https://github.com/matheusbruns/techvisit-front) Link do repositório do Front-end.
   - [Back-end](https://github.com/matheusbruns/techvisit-back) Link do repositório do Back-end.
     
-- [WIKI do Projeto](https://github.com/matheusbruns/techvisit/wiki) Link da Wiki do Projeto.
 - **Sonar Cloud**:
   - [Front-end](https://sonarcloud.io/summary/overall?id=matheusbruns_techvisit-front) Link do SonarCloud do Front-end.
   - [Back-end](https://sonarcloud.io/summary/overall?id=matheusbruns_techvisit-back) Link do SonarCloud do Back-end.
